@@ -1,11 +1,3 @@
-- 👋 ## Hi, I’m @leonardo-righi
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-leonardo-righi/leonardo-righi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
+olá, meu nome é Leonardo
+Estou interessado em aprender progamação
+Atualmente estou aprendendo a progamar em scratch e javascript
